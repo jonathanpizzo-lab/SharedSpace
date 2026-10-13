@@ -8,6 +8,24 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 ## Our Standards
 
+**Decisions:** Decisions will be made through full consensus. We will discuss options until everyone agrees on how to move forward.
+
+**Attendance:** Attendance will be flexible, but members should attend whenever possible. Illness, emergencies, and scheduling conflicts are acceptable reasons for missing a meeting. Absent members must review shared notes, provide updates through Discord, and complete their assigned work.
+
+**Assignments:** Tasks will be assigned based on members’ strengths, interests, and availability while maintaining a fair workload. Incomplete or poor-quality work will be discussed privately with the responsible member, and a deadline for completion or revision will be agreed upon. Repeated problems may be brought to the instructor.
+
+**Participation:** We will use Discord to communicate and shared documents to organize our work. Everyone will have opportunities to contribute, and responsibilities will reflect members’ strengths and interests.
+
+**Meeting Times and Locations/Mediums:** We will agree on a weekly meeting time that works for everyone. The team will choose an accessible in-person location or meet through a Discord call.
+
+**Agenda and Minutes/Notes:** Note-taking responsibilities will rotate among members. Everyone may add agenda items before meetings, and notes, decisions, and assigned tasks will be recorded in a shared document.
+
+**Promptness:** Members should arrive on time, with a five-minute grace period before meetings begin. Anyone running late should notify the group through Discord. Repeated lateness will be discussed privately.
+
+**Conversational Courtesies:** Members will listen actively, avoid interrupting, and respectfully consider different opinions. We will invite quieter members to contribute, share speaking time, and politely redirect conversations that move away from the agenda.
+
+**Enforcement/Feedback:** We will use regular team check-ins to review progress and address concerns. Feedback will be specific, respectful, and focused on the work or behavior. We will agree on improvements together and involve the instructor if problems persist.
+
 Examples of behavior that contributes to a positive environment for our community include:
 
 * Demonstrating empathy and kindness toward other people
@@ -36,7 +54,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [INSERT CONTACT METHOD]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at uricsc305@gmail.com. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
