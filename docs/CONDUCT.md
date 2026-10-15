@@ -99,3 +99,8 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+
+## Signature
+
+[Jonathan Pizzo — Conduct Signature](https://docs.google.com/document/d/1BZbOMK8mgn3OSfrJ6VnKKvlzMecFvU_B7sKFuUN4Mh8)
