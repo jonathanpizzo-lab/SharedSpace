@@ -106,3 +106,5 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [Jonathan Pizzo — Conduct Signature](https://docs.google.com/document/d/1BZbOMK8mgn3OSfrJ6VnKKvlzMecFvU_B7sKFuUN4Mh8)
 
 [Issac Gonzalez](https://drive.google.com/file/d/1tFPruIJkQXn5_4IZ6Kd4PT2GjZWK2WI6/view?usp=sharing)
+
+[Nathan Petit](https://docs.google.com/document/d/1zE0TLaAZmZsZOIV6CkGcRDK6xsDX3-WVh-qRK7lRWQ4/edit?usp=sharing)
