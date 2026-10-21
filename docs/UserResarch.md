@@ -14,6 +14,6 @@
   - Team Action (if any): Make a chore schedule with reminders a core feature of Shared Space and prioritize it when we start planning the app in Figma.
 
 - Observation 4:
-  - Observation Statement:
-  - Supporting Data:
-  - Team Action (if any):
+  - Observation Statement: Several respondents experience recurring conflicts over chores because responsibilities are unclear or roommates do not complete their share.
+  - Supporting Data:  In the visible written responses, one participant reported weekly discussions about dishes. Another described kitchen and trash buildup because suitemates did not clean up. Others reported arguments over whose turn it was to wash dishes, with one person eventually doing the work.
+  - Team Action (if any): Prioritize a shared chore schedule with assigned responsibilities, rotating tasks, reminders, and completion tracking. Test whether these features help roommates clarify expectations and reduce repeated disagreements.
