@@ -21,7 +21,7 @@ Variant A (Control) - the current design with login and sign up on one screen us
 Variant B (Test) - login and sign up on two separate screens with a link to switch between them
 
 
-##Profile Creation Layout Test
+## Profile Creation Layout Test
 
 **A/B Test Name:** Full Profile Form vs Simplified Profile Form
 
