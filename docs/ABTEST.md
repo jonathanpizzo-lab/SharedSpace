@@ -19,3 +19,24 @@
 Variant A (Control) - the current design with login and sign up on one screen using tabs
 
 Variant B (Test) - login and sign up on two separate screens with a link to switch between them
+
+
+##Profile Creation Layout Test
+
+**A/B Test Name:** Full Profile Form vs Simplified Profile Form
+
+**User Story Number:** US3
+
+**Metrics:** Adoption, Engagement, Task Success
+
+**Hypothesis:** We believe that keeping the profile creation page simple will encourage more users to complete their profiles. Giving users the option to add extra details later could make the process easier.
+
+**Problem:** Some users may skip setting up their profile because there is too much information to fill out. We want to see if reducing the number of visible fields helps users finish their profiles.
+
+**Experiment:** We will use Firebase Remote Config to display two different profile layouts to new users. Each version will be shown to 50% of users. Firebase Analytics will record when users open the page, complete their profile, or skip it. After two weeks, we will compare the results.
+
+**Variations:**
+
+Variant A (Control) - Users see all the profile fields on the page and can fill them out before continuing.
+
+Variant B (Test) - Users see only the required fields at first and can expand a section to add more information if they want.
