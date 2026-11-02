@@ -40,3 +40,42 @@ Variant B (Test) - login and sign up on two separate screens with a link to swit
 Variant A (Control) - Users see all the profile fields on the page and can fill them out before continuing.
 
 Variant B (Test) - Users see only the required fields at first and can expand a section to add more information if they want.
+
+## A/B Test: Household Agreement Button Wording
+
+- **User Story Number:** US4 — Establish Household Agreements.
+
+- **Metrics:** Task Success — Agreement Acceptance Completion Rate, as defined in `METRICS.md`.
+
+- **Hypothesis:** Users may leave an agreement without responding because the button’s purpose is unclear. Changing the button text from “Submit” to “I Agree” will increase successful agreement acceptance by making the action easier to understand.
+
+### Experiment
+
+We will use Firebase Remote Config and Firebase A/B Testing to randomly divide participating users equally between two versions. Users will remain in their assigned variation throughout the experiment.
+
+The experiment will include all eligible testers who belong to a household and have an agreement awaiting their response. Including all eligible testers will help us collect data from our small initial user base.
+
+We will track the following events using Firebase Analytics:
+
+- `agreement_viewed`: Recorded when a user views an agreement they have not yet accepted.
+- `agreement_accepted`: Recorded only after their acknowledgment is successfully saved in Firestore.
+
+We will associate events with the user, session, agreement ID, agreement version, and test variation. Repeated views of the same agreement version within a session will count as one viewing opportunity.
+
+For each variation, we will calculate:
+
+**Acceptance Completion Rate = (Viewing opportunities followed by successful acceptance in the same session ÷ Total viewing opportunities) × 100**
+
+We will run the experiment for two weeks and compare the rates. If participation is too low to establish a clear result, we will report the findings as preliminary rather than declare a winner.
+
+### Variations
+
+| Element | Variation A | Variation B |
+|---|---|---|
+| Confirmation button text | Submit | I Agree |
+| Agreement content | Identical | Identical |
+| Button color, size, and position | Identical | Identical |
+| Suggest a Change option | Available | Available |
+| Acceptance functionality | Identical | Identical |
+
+Only the confirmation button’s wording will change.
