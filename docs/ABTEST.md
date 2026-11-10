@@ -79,3 +79,58 @@ We will run the experiment for two weeks and compare the rates. If participation
 | Acceptance functionality | Identical | Identical |
 
 Only the confirmation button’s wording will change.
+
+## A/B Test: Roommate Profile Background Colors
+
+## A/B Test Name
+Roommate Profile Background Color – Different Colors vs. Same Color
+
+## User Story Number
+US2 – Roommate Profiles
+
+## Metrics
+
+**HEART Metrics:**
+
+- **Happiness:** Measure whether users find the roommate interface more visually appealing through in-app feedback or satisfaction surveys.
+- **Engagement:** Measure how often users interact with roommate profiles.
+- **Adoption:** Measure the percentage of users who view or explore multiple roommate profiles.
+- **Retention:** Measure whether users return to the roommate section.
+- **Task Success:** Measure how quickly and accurately users can identify and navigate to a particular roommate's profile.
+
+## Hypothesis
+
+### What problem are we trying to solve?
+
+When multiple roommates are displayed using the same background color, users may have difficulty visually distinguishing between different roommates. This can make the interface less engaging and make it harder to quickly identify individual roommates.
+
+This is particularly important when users live with several roommates and frequently need to view information about a specific person.
+
+### Proposed Solution
+
+We hypothesize that assigning different background colors to each roommate's profile will make the interface easier to navigate, improve visual organization, and increase user engagement.
+
+We expect users who see different background colors for each roommate to identify individual roommates more quickly and report higher satisfaction with the interface.
+
+Only the background color will change between the two variations. All other profile elements, including text, images, layout, and functionality, will remain identical.
+
+## Experiment
+
+### Experiment Setup Using Firebase
+
+We will use Firebase Remote Config and Firebase A/B Testing to compare two versions of the roommate interface.
+
+### Audience
+
+- Include authenticated users who have at least two roommates.
+- Randomly assign 50% of eligible users to Variation A and 50% to Variation B.
+- Keep each user in the same variation throughout the experiment to ensure consistent results.
+- Run the experiment for approximately two weeks or until sufficient user interaction data is collected.
+
+### Variation A – Control Group
+
+All roommate profiles use the same background color.
+
+### Variation B – Experimental Group
+
+Each roommate profile displays a different background color.
