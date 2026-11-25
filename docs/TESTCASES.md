@@ -4,6 +4,6 @@ https://docs.google.com/presentation/d/1Cxf9NvDuSrOLabG5Q_aw_HxxTGJhZvx5lw-ybJUv
 
 [US3: Profile Creation](https://docs.google.com/presentation/d/1XsIsjeROHwa_PvWkDuZLGGhQLniVRc2u2PjWkufpOCI/edit?usp=sharing)
 
-(add link) US4: Golden Path
+[US4: Golden Path](https://docs.google.com/presentation/d/1bhiTCfFIXlnE7uwOFhqR8SxjmujhEudqstpo2bmqgm8/edit?usp=sharing)
 
 (add link) US5: …
